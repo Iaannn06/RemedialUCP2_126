@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">RemedUCP2</string>
+    <string name="home_title">Daftar Buku</string>
+    <string name="deskripsi_no_item">Tidak ada data Buku. Tap + untuk menambah data</string>
+    <string name="entry_buku">Tambah Buku</string>
+    <string name="entry_kategori">Tambah Kategori</string>
+    <string name="judul_buku">Judul Buku</string>
+    <string name="penulis_buku">Penulis</string>
+    <string name="kategori">Kategori</string>
+    <string name="pilih_kategori">Pilih Kategori</string>
+    <string name="nama_kategori">Nama Kategori</string>
+    <string name="deskripsi_kategori">Deskripsi Kategori</string>
+    <string name="detail_buku">Detail Buku</string>
+    <string name="detail_id">ID Buku :</string>
+    <string name="detail_judul">Judul :</string>
+    <string name="detail_penulis">Penulis :</string>
+    <string name="detail_kategori">Kategori :</string>
+    <string name="detail_status">Status :</string>
+    <string name="status_tersedia">Tersedia</string>
+    <string name="status_dipinjam">Dipinjam</string>
+    <string name="update_buku">EditBuku</string>
+    <string name="update_kategori">Edit Kategori</string>
+    <string name="btn_submit">Simpan</string>
+    <string name="btn_delete">Hapus</string>
+    <string name="btn_yes">Ya</string>
+    <string name="btn_no">Tidak</string>
+    <string name="back">Kembali</string>
+    <string name="required_field">* Wajib diisi</string>
+    <string name="attention">Perhatian</string>
+    <string name="delete_confirmation">Apakah Anda yakin ingin menghapus data ini?</string>
+    <string name="delete_failed_borrowed">Gagal, Masih ada buku yang sedang dipinjam!</string>
+    <string name="delete_success">Data berhasil dihapus</string>
 </resources>
